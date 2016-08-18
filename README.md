@@ -1,0 +1,1 @@
+learn at .. http://learnpythonthehardway.org/book 
